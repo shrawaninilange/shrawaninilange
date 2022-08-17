@@ -2,6 +2,7 @@
 <h3 align="center">Highly motivated web developer with a strong logical thinking capacity. An energetic and quick learner, seeking to enhance my Front-end and Back-end skills to the best of my ability. Proficient in CSS and Design.</h3>
 
 </hr>
+
 <h2 align="center">Talking about Personal Stuffs 
 
 </h2>
@@ -15,7 +16,7 @@
 
  
 <p >Let's connect!</p>
-<a href="linkedin.com/in/shrawani-nilange-bab99b216">
+<a href="https://www.linkedin.com/in/shrawani-nilange-bab99b216/">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
