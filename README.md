@@ -1,7 +1,9 @@
  <h1 align="center">Hi 👋, I'm Shrawani Nilange</h1>
+  <div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="auto" height="300"/>
+</div>
 <h3 align="center">Highly motivated web developer with a strong logical thinking capacity. An energetic and quick learner, seeking to enhance my Front-end and Back-end skills to the best of my ability. Proficient in CSS and Design.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri3598&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri3598" /> </p>
-</hr>
+ 
 
 <h2 align="center">Talking about Personal Stuffs 
 
