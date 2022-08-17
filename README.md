@@ -1,6 +1,6 @@
    <h1 align="center">Hi 👋, I'm Shrawani nilange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <h5>Highly motivated web developer with a strong logical thinking capacity. An energetic and quick learner, seeking to enhance my Front-end and Back-end skills to the best of my ability. Proficient in CSS and Design.<h5/>
+ <h2>Highly motivated web developer with a strong logical thinking capacity. An energetic and quick learner, seeking to enhance my Front-end and Back-end skills to the best of my ability. Proficient in CSS and Design.<h2/>
 
 - 🌱 I’m currently learning **React..**
 
