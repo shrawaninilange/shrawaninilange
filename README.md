@@ -15,7 +15,7 @@
 
  
 <p >Let's connect!</p>
-<a href="https://www.linkedin.com/in/linkedin.com/in/shrawani-nilange-bab99b216/">
+<a href="linkedin.com/in/shrawani-nilange-bab99b216">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
