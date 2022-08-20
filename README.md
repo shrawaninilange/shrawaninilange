@@ -9,13 +9,13 @@
 <h2 align="center">Talking about Personal Stuffs 
 
 </h2>
-- 👨‍💻 All of my projects are available at (https://shravaniportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://shrawani-nilange.netlify.app/)
 
 - 💬 Ask me about **React.js, JavaScript, Html, Css.**
 
 - 📫 How to reach me **shrawaninilange1999@gmail.com**
 
-- 📄 Know about my experiences [https://shravaniportfolio.netlify.app/](https://shravaniportfolio.netlify.app/)
+- 📄 Know about my experiences [https://shrawani-nilange.netlify.app/](https://shrawani-nilange.netlify.app/)
 
  
 <p >Let's connect!</p>
